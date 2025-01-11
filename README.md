@@ -14,16 +14,13 @@
 
 ## Tech Stack
 ### Languages
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,python,go,javascript,typescript,php)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,python,go,javascript,typescript,php)](https://github.com/eric-cw-hsu)
 
 ### Web Frameworks
-[![My Skills](https://skillicons.dev/icons?i=react,next,vue,nodejs,express,nestjs,laravel)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,next,vue,nodejs,express,nestjs,laravel)](https://github.com/eric-cw-hsu)
 
 ### Machine Learning
-[![My Skills](https://skillicons.dev/icons?i=pytorch,tensorflow)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=pytorch,tensorflow)](https://github.com/eric-cw-hsu)
 
 ### Tools & Infra
-[![My Skills](https://skillicons.dev/icons?i=git,docker,nginx,linux,terraform,aws,mysql,postgres,redis,mongodb)](https://skillicons.dev)
-
-
-
+[![My Skills](https://skillicons.dev/icons?i=git,docker,nginx,linux,terraform,aws,mysql,postgres,redis,mongodb)](https://github.com/eric-cw-hsu)
